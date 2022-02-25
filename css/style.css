@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto")
+@import url("https://fonts.googleapis.com/css2?family=Comforter&family=DM+Serif+Display&family=Raleway:wght@100;200&display=swap")
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+
+body {
+	font-size: 18px;
+	margin: 0px;
+	background-color: #966121; 
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	margin: 70px;
+}
+
+h2 {
+	font-family: 'DM Serif Display', serif;
+	font-weight: bold;
+	margin: 70px;
+	padding-bottom: 20px;
+	color: black;
+	font-size: 40px;
+}
+
+h4 {
+	font-family: 'DM Serif Display', serif;
+	font-weight: bold;
+	margin: 70px;
+	padding-bottom: 20px;
+	color: #966121;
+	font-size: 40px;
+}
+
+h3 { 
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	margin: 70px;
+}
+
+a{
+	text-decoration: none;
+	margin:70px;
+}
+
